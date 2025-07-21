@@ -1,0 +1,9 @@
+/* src/styles/main.css */
+/* Add your CSS styles for navbar, landing page, product cards, and cart here */
+body { font-family: sans-serif; }
+/* styles for buttons */
+/* styles for header */
+.product-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.product-card { border: 1px solid #ccc; padding: 1rem; }
+.cart-item-card { display: flex; gap: 1rem; margin-bottom: 1rem; }
+
